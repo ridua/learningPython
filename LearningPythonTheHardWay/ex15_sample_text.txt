@@ -1,3 +1,3 @@
-This is a text file
-made for
-ex15
+line1 hello mw
+line2 this is line2
+line3 yes finally
